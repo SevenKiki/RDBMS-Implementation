@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtuples.a CMakeFiles/tuples.dir/tuples.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtuples.a

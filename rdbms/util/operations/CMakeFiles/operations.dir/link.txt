@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liboperations.a CMakeFiles/operations.dir/operations.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liboperations.a
